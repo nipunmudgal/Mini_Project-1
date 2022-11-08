@@ -143,7 +143,7 @@ header .container .header-icons:hover{
 .full-container .home-page-wallpapers{
     min-height: 85vh;
     width: 100%;
-    background-image: url('Images/header section/wepik-photo-mode-2022928-122518.png');
+    background-image: url('Static/header section/wepik-photo-mode-2022928-122518.png');
     background-size:contain;
     background-repeat: no-repeat;
     margin-top: 100px;
